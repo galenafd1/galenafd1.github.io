@@ -1,0 +1,116 @@
+/* Set CSS variables */
+:root {
+    --mcb: rgb(9,92,212);
+    --red: rgb(255,0,0);
+    --mcy: rgb(251,208,0);
+    --mcg: rgb(67,176,71);
+    --mclb: rgb(9,181,212);
+    --bsb: rgba(0, 0, 0, 0.397);
+    --purple: rgb(128,0,128);
+    --ccblue: #1383D9;
+    --ccred: #D82613;
+    --ccyellow: #D8AA13;
+    --ccgreen: #13D8AA;
+    --ccpurple: #9014D9;
+    --ccorbr: #D86813;
+    --White:rgb(255,255,255);
+    --Black:rgb(0,0,0);
+    --SpanishBlue:#076FBE;
+    --IntOrangeEng:#BB1806;
+    --KRYellow:#f5df4d;
+    --KRRed:#f56e4d;
+    --KRBlue:#4D63F5;
+    --KRGreen:#63F54D;
+    --JBGrey:rgb(133,137,138);
+    --GoogleRed:#ea4335;
+    --GoogleGreen:#34a853;
+    --GoogleYellow:#fbbc05;
+    --GoogleBlue:#4285F4;
+    --NewKRTeal:#12eaea;
+    --NewKRBlue:#1111e8;
+    --NewKRRed:#e81111;
+    --NewKRYellow:#e8e811;
+    --GAlogobg:#faf2e5;
+    --GAlogo:#024eac;
+    --GAPurple:#5f02ac;
+    --GAGrey:#dbd5cd;
+    --NewGWGrey:#eee5e9;
+    --NewGWYellow:#fee440;
+    --NewGWBlue:#00bbf9;
+    --NewGWGreen:#00f5d4;
+    --NewGWAGreen: rgba(130, 245, 212, 0.897);
+    --MMDarkGrey: #8d939c;
+    --MeteorJSPurple: #595dff;
+    --MeteorJSOrange: #ff6a3e;
+    --SilverChalice: #ABABAB;
+    --TithelyGreen: #5cd2a4;
+    --WestSideFCBlue: #a8dcf3;
+}
+
+/* Make scroll behavior smooth */
+html {
+    scroll-behavior: smooth;
+    margin: 0 auto;
+    display: block;
+    height: 100%;
+    max-width: 100%;
+    background-size: 100% 100%;
+}
+
+/* For desktop, tablets, and anything bigger than 768px */
+.col-1 {
+    width: 8.33%;
+}
+
+.col-2 {
+    width: 16.66%;
+}
+
+.col-3 {
+    width: 25%;
+}
+
+.col-4 {
+    width: 33.33%;
+}
+
+.col-5 {
+    width: 41.66%;
+}
+
+.col-6 {
+    width: 50%;
+}
+
+.col-7 {
+    width: 58.33%;
+}
+
+.col-8 {
+    width: 66.66%;
+}
+
+.col-9 {
+    width: 70%;
+}
+
+.col-10 {
+    width: 83.33%;
+
+}
+
+.col-11 {
+    width: 91.66%;
+}
+
+.col-12 {
+    width: 100%;
+}
+
+/* For, (hopefully, all), mobile phones */
+@media only screen and (max-width: 768px) {
+    [class*="col-"] {
+        width: 100%;
+        max-width: 100%;
+    }
+}
