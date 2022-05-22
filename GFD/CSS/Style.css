@@ -114,3 +114,20 @@ html {
         max-width: 100%;
     }
 }
+
+/* Bill Hall Memorial Picture */
+.bill-hall-memorial-img {
+    margin: 0 auto;
+    height: auto;
+    max-width: 2048px;
+    display: block;
+    text-align: center;
+    box-sizing: 2px 1px 1px var(--bsb);
+}
+
+.bill-hall-img-container {
+    display: block;
+    margin: 0 auto;
+    height: auto;
+    text-align: center;
+}
