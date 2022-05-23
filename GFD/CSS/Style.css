@@ -147,6 +147,7 @@ html {
     height: auto;
     max-width: 1500px;
     float: left;
+    padding: 5px;
 }
 
 .bill-hall-desc {
