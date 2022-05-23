@@ -148,3 +148,9 @@ html {
     display: block;
     max-width: 1500px;
 }
+
+.bill-hall-desc {
+    text-align:justify;
+    font-size: 25px;
+    padding: 5px;
+}
