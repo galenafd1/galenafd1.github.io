@@ -146,10 +146,10 @@ html {
 .bill-hall-main-img {
     height: auto;
     max-width: 1500px;
+    float: left;
 }
 
 .bill-hall-desc {
-    text-align: center;
     font-size: 25px;
     padding: 5px;
 }
