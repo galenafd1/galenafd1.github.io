@@ -131,3 +131,20 @@ html {
     height: auto;
     text-align: center;
 }
+
+.bill-hall-main-container {
+    float: left;
+    padding: 5px;
+}
+
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+.bill-hall-main-img {
+    height: auto;
+    display: block;
+    max-width: 1500px;
+}
