@@ -192,9 +192,9 @@ html {
 
 @media screen and (min-width: 600px) {
     .column {
-        -ms-flex: 45%;
-        flex: 45%;
-        max-width: 45%;
+        -ms-flex: 43%;
+        flex: 43%;
+        max-width: 43%;
     }
 }
 
@@ -238,7 +238,7 @@ html {
 
 .bill-hall-main-img {
     max-width: 1500px;
-    width: 70%;
+    width: 65%;
     height: auto;
 }
 
@@ -264,7 +264,7 @@ html {
 
 .gfd-logo {
     width: 100%;
-    max-width: 675px;
+    max-width: 670px;
     height: auto;
 }
 
