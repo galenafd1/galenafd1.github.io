@@ -197,9 +197,9 @@ html {
 
 @media screen and (min-width: 800px) {
     .column {
-        -ms-flex: 43%;
-        flex: 43%;
-        max-width: 43%;
+        -ms-flex: 40%;
+        flex: 40%;
+        max-width: 40%;
     }
     .main-title {
         font-size: 60px;
@@ -240,7 +240,7 @@ html {
 
 .bill-hall-main-img {
     max-width: 1500px;
-    width: 65%;
+    width: 60%;
     height: auto;
 }
 
