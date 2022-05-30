@@ -163,16 +163,23 @@ html {
         }
     }
 }
+@media screen and (min-width: 1px) {
+    @media screen and (max-width: 600px) {
+        .column {
+            -ms-flex: 100%;
+            flex: 100%;
+            max-width: 100%;
+        }
 
-@media screen and (max-width: 600px) {
-    .column {
-        -ms-flex: 100%;
-        flex: 100%;
-        max-width: 100%;
+        .main-title {
+            font-size: 32px;
+        }
     }
+}
 
+@media screen and (min-width: 800px) {
     .main-title {
-        font-size: 32px;
+        font-size: 60px;
     }
 }
 
@@ -228,7 +235,6 @@ html {
     display: block;
     height: auto;
     font-weight: bold;
-    font-size: 60px;
     text-align: center;
 }
 
