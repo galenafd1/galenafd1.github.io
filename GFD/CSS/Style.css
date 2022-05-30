@@ -153,8 +153,8 @@ html {
 }
 
 .column p {
-    text-align: justify;
-    text-justify: inter-word;
+    text-align: center;
+    /*text-justify: inter-word;*/
     margin-top: 8px;
     vertical-align: middle;
     width: 100%;
