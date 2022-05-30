@@ -192,9 +192,9 @@ html {
 
 @media screen and (min-width: 600px) {
     .column {
-        -ms-flex: 50%;
-        flex: 50%;
-        max-width: 50%;
+        -ms-flex: 45%;
+        flex: 45%;
+        max-width: 45%;
     }
 }
 
