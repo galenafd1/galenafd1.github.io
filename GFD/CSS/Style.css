@@ -159,7 +159,7 @@ html {
         }
 
         .main-title {
-            font-size: 44px
+            font-size: 54px
         }
     }
 }
@@ -172,7 +172,7 @@ html {
     }
 
     .main-title {
-        font-size: 32px;
+        font-size: 42px;
     }
 }
 
@@ -220,6 +220,7 @@ html {
     margin: 0 auto;
     display: block;
     height: auto;
+    text-align: center;
 }
 
 .main-title {
@@ -227,7 +228,8 @@ html {
     display: block;
     height: auto;
     font-weight: bold;
-    font-size: 56px;
+    font-size: 66px;
+    text-align: center;
 }
 
 
