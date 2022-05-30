@@ -173,7 +173,11 @@ html {
         }
 
         .column p {
-            font-size: 30px;
+            font-size: 28px;
+        }
+
+        .bill-hall-main-img {
+            width: 80%;
         }
     }
 }
@@ -192,14 +196,18 @@ html {
         .column p {
             font-size: 26px;
         }
+
+        .bill-hall-main-img {
+            width: 100%;
+        }
     }
 }
 
 @media screen and (min-width: 800px) {
     .column {
-        -ms-flex: 40%;
-        flex: 40%;
-        max-width: 40%;
+        -ms-flex: 47%;
+        flex: 47%;
+        max-width: 47%;
     }
     .main-title {
         font-size: 60px;
@@ -207,6 +215,10 @@ html {
 
     .column p {
         font-size: 38px;
+    }
+
+    .bill-hall-main-img {
+        width: 65%;
     }
 }
 
@@ -240,7 +252,6 @@ html {
 
 .bill-hall-main-img {
     max-width: 1500px;
-    width: 60%;
     height: auto;
 }
 
