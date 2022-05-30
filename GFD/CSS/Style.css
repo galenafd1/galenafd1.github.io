@@ -146,12 +146,18 @@ html {
     padding: 0 4px;
 }
 
-.colum img, p {
+.colum img {
     margin-top: 8px;
     vertical-align: middle;
     width: 100%;
+}
+
+.column p {
     text-align: justify;
     text-justify: inter-word;
+    margin-top: 8px;
+    vertical-align: middle;
+    width: 100%;
 }
 
 @media screen and (min-width: 600px) {
