@@ -190,6 +190,14 @@ html {
     }
 }
 
+@media screen and (min-width: 600px) {
+    .column {
+        -ms-flex: 50%;
+        flex: 50%;
+        max-width: 50%;
+    }
+}
+
 @media screen and (min-width: 800px) {
     .main-title {
         font-size: 60px;
