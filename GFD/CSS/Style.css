@@ -146,10 +146,12 @@ html {
     padding: 0 4px;
 }
 
-.colum-img {
+.colum img, p {
     margin-top: 8px;
     vertical-align: middle;
     width: 100%;
+    text-align: justify;
+    text-justify: inter-word;
 }
 
 @media screen and (min-width: 600px) {
@@ -162,6 +164,10 @@ html {
 
         .main-title {
             font-size: 48px
+        }
+
+        .column p {
+            font-size: 32px;
         }
     }
 }
@@ -176,12 +182,20 @@ html {
         .main-title {
             font-size: 36px;
         }
+
+        .column p {
+            font-size: 26px;
+        }
     }
 }
 
 @media screen and (min-width: 800px) {
     .main-title {
         font-size: 60px;
+    }
+
+    .column p {
+        font-size: 38px;
     }
 }
 
@@ -216,8 +230,7 @@ html {
 .bill-hall-main-img {
     height: auto;
     max-width: 1500px;
-    float: left;
-    padding: 5px;
+    width: 100%;
 }
 
 .bill-hall-desc {
@@ -240,5 +253,10 @@ html {
     text-align: center;
 }
 
+.gfd-logo {
+    width: 100%;
+    max-width: 681px;
+    height: auto;
+}
 
 
