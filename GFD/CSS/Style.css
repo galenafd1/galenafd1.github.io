@@ -238,7 +238,8 @@ html {
 
 .bill-hall-main-img {
     max-width: 1500px;
-    width: 100%;
+    width: 80%;
+    height: auto;
 }
 
 .bill-hall-desc {
@@ -264,6 +265,7 @@ html {
 .gfd-logo {
     width: 100%;
     max-width: 681px;
+    height: auto;
 }
 
 
