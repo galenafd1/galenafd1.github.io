@@ -305,4 +305,17 @@ html {
     display: inline-block;
 }
 
+@media screen and (min-width: 1px) {
+    @media screen and (max-width: 768px) {
+        .extra-spacing {
+            display: block;
+        }
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .extra-spacing {
+        display: none;
+    }
+}
 
