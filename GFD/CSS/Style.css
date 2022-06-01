@@ -180,9 +180,7 @@ html {
             width: 80%;
         }
 
-        .bill-hall-img-p {
-            font-size: 28px;
-        }
+        
     }
 }
 @media screen and (min-width: 1px) {
@@ -205,9 +203,7 @@ html {
             width: 100%;
         }
 
-        .bill-hall-img-p {
-            font-size: 26px;
-        }
+        
     }
 }
 
@@ -310,6 +306,10 @@ html {
         .extra-spacing {
             display: block;
         }
+
+        .bill-hall-img-p {
+            font-size: 26px;
+        }
     }
 }
 
@@ -317,5 +317,10 @@ html {
     .extra-spacing {
         display: none;
     }
+
+    .bill-hall-img-p {
+        font-size: 28px;
+    }
+    
 }
 
