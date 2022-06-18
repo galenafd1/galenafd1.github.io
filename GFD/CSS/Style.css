@@ -50,6 +50,8 @@
     --BloodRed: #6E0E0A;
     --BRGreen: #0A7052;
     --BRBlue: #0A4B70;
+    --bl: rgb(0,0,0);
+    --BRBlue2: #0E0A70;
 
 }
 
@@ -398,7 +400,7 @@ html {
 /* Donation Button */
 .button {
     border-radius: 4px;
-    background-color: var(--BRBlue);
+    background-color: var(--BRBlue2);
     color: var(--White);
     border: none;
     text-align: center;
