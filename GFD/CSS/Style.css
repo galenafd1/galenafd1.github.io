@@ -235,7 +235,7 @@ html {
     }
 
     .bill-hall-img-p {
-        font-size: 40px;
+        font-size: 34px;
     }
 }
 
@@ -396,7 +396,7 @@ html {
 @media screen and (min-width: 768px) {
     @media screen and (max-width: 800px) {
         .bill-hall-img-p {
-            font-size: 34px;
+            font-size: 30px;
         }
     }
 }
