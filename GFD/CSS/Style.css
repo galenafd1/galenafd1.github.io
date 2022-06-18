@@ -235,7 +235,7 @@ html {
     }
 
     .bill-hall-img-p {
-        font-size: 38px;
+        font-size: 40px;
     }
 }
 
@@ -318,7 +318,7 @@ html {
 
 .bill-hall-img-p {
     display: inline-block;
-    margin: 0 auto;
+    margin: 10 auto;
     height: auto;
     text-align: center;
     color: var(--White);
@@ -381,7 +381,7 @@ html {
         }
 
         .bill-hall-img-p {
-            font-size: 26px;
+            font-size: 28px;
         }
     }
 }
@@ -392,7 +392,7 @@ html {
     }
 
     .bill-hall-img-p {
-        font-size: 28px;
+        font-size: 30px;
     }
 
 }
