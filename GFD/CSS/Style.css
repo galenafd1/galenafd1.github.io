@@ -388,6 +388,7 @@ html {
     display: inline-block;
     margin:0 auto;
     opacity: 0.8;
+    box-shadow: var(--bsb 2px 2px 2px);
 }
 
 .bill-hall-desc {
