@@ -454,12 +454,27 @@ html {
     color: var(--White);
     border: none;
     text-align: center;
-    font-size: 26px;
-    padding: 18px;
-    width: 200px;
     transition: all 0.5s;
     cursor: pointer;
     margin: 5px;
+}
+
+@media screen and (min-width: 1px) {
+    @media screen and (max-width: 768px) {
+        .button {
+            font-size: 22px;
+            padding: 14px;
+            width: 180px;
+        }
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .button {
+        font-size: 28px;
+        padding: 20px;
+        width: 200px;
+    }
 }
 
 .button span {
