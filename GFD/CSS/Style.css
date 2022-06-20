@@ -257,7 +257,7 @@ html {
 
 .centered {
     position: absolute;
-    top: 85%;
+    top: 88%;
     left: 50%;
     transform: translate(-50%, -50%);
   }
@@ -337,7 +337,7 @@ html {
     }
 
     .page-display-float {
-        font-size: 30px;
+        font-size: 33px;
     }
 
 }
@@ -442,7 +442,7 @@ html {
 @media screen and (min-width: 768px) {
     @media screen and (max-width: 800px) {
         .bill-hall-img-p {
-            font-size: 30px;
+            font-size: 33px;
         }
     }
 }
