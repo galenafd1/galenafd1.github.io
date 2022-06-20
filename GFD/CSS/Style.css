@@ -281,7 +281,6 @@ html {
 .float-right-img {
     float: right;
     height: auto;
-    background-color: var(--White);
 }
 
 .page-display-img-text {
@@ -389,6 +388,7 @@ html {
     margin:0 auto;
     opacity: 0.8;
     box-shadow: var(--bsb 2px 2px 2px);
+    background-color: var(--White);
 }
 
 .bill-hall-desc {
