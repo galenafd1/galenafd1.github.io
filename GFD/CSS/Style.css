@@ -257,7 +257,7 @@ html {
 
 .centered {
     position: absolute;
-    top: 85%;
+    top: 88%;
     left: 50%;
     transform: translate(-50%, -50%);
   }
@@ -460,7 +460,7 @@ html {
 }
 
 @media screen and (min-width: 1px) {
-    @media screen and (max-width: 900px) {
+    @media screen and (max-width: 1000px) {
         .button {
             font-size: 23px;
             padding: 15px;
@@ -469,7 +469,7 @@ html {
     }
 }
 
-@media screen and (min-width: 900px) {
+@media screen and (min-width: 1000px) {
     .button {
         font-size: 28px;
         padding: 20px;
