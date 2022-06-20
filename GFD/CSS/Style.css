@@ -257,7 +257,7 @@ html {
 
 .centered {
     position: absolute;
-    top: 60%;
+    top: 70%;
     left: 50%;
     transform: translate(-50%, -50%);
   }
@@ -386,7 +386,7 @@ html {
     height: auto;
     display: inline-block;
     margin:0 auto;
-    opacity: 0.8;
+    opacity: 0.75;
     box-shadow: var(--bsb 2px 2px 2px);
     background-color: var(--White);
 }
