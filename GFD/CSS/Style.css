@@ -270,6 +270,8 @@ html {
     text-shadow: var(--bl) 2px 2px 2px;
 }
 
+
+
 .clearfix::after {
     content: "";
     clear: both;
@@ -314,6 +316,10 @@ html {
             font-size: 38px;
         }
 
+        .page-display-float {
+            font-size: 27px;
+        }
+
     }
 }
 
@@ -328,6 +334,10 @@ html {
 
     .page-display-img-text-h {
         font-size: 42px;
+    }
+
+    .page-display-float {
+        font-size: 30px;
     }
 
 }
@@ -442,7 +452,7 @@ html {
     border: none;
     text-align: center;
     font-size: 28px;
-   /* padding: 20px; */
+    padding: 20px;
     width: 200px;
     transition: all 0.5s;
     cursor: pointer;
