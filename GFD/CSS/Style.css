@@ -248,6 +248,39 @@ html {
     text-align: center;
 }
 
+.page-display-container-relative {
+    position: relative;
+    height: auto;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+.page-display-float {
+    margin: 10 auto;
+    height: auto;
+    text-align: center;
+    color: var(--White);
+    text-shadow: var(--bl) 2px 2px 2px;
+}
+
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+
+.float-right-img {
+    float: right;
+    height: auto;
+}
+
 .page-display-img-text {
     display: inline-block;
     margin: 0 auto;
@@ -409,7 +442,7 @@ html {
     border: none;
     text-align: center;
     font-size: 28px;
-    padding: 20px;
+   /* padding: 20px; */
     width: 200px;
     transition: all 0.5s;
     cursor: pointer;
