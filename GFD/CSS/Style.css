@@ -309,6 +309,10 @@ html {
     opacity: 0.8;
 }
 
+.opacity-10 {
+    opacity: 1;
+}
+
 .page-display-container-relative {
     /*position: relative;*/
     height: auto;
