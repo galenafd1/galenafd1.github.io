@@ -508,8 +508,8 @@ html {
 @media screen and (min-width: 1300px) {
     .button {
         font-size: 33px;
-        padding: 25px;
-        width: 210px;
+        padding: 21px;
+        width: 200px;
     }
 }
 
