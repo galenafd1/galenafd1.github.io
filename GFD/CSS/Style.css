@@ -472,6 +472,7 @@ html {
     text-align: center;
     color: var(--White);
     text-shadow: var(--bl) 2px 2px 2px;
+    overflow: hidden;
 }
 
 @media screen and (min-width: 1px) {
