@@ -265,7 +265,7 @@ html {
     text-align: center;
     color: var(--White);
     text-shadow: var(--bl) 2px 2px 2px;
-
+    background-color: var(--BRBlue2);
 }
 
 .stat-container-1 {
@@ -544,6 +544,10 @@ html {
             padding: 18px 0px;
             width: 180px;
         }
+
+        .stat-container p {
+            font-size: 25px;
+        }
     }
 }
 
@@ -553,6 +557,10 @@ html {
             font-size: 20px;
             padding: 12px 0px;
             width: 105px;
+        }
+
+        .stat-container p {
+            font-size: 26px;
         }
     }
 }
@@ -564,6 +572,10 @@ html {
             padding: 20px 0px;
             width: 160px;
         }
+
+        .stat-container p {
+            font-size: 27px;
+        }
     }
 }
 
@@ -572,6 +584,10 @@ html {
         font-size: 31px;
         padding: 21px 0px;
         width: 190px;
+    }
+
+    .stat-container p {
+        font-size: 28px;
     }
 }
 
