@@ -494,7 +494,7 @@ html {
 }
 
 @media screen and (min-width: 1000px) {
-    @media screen and (max-width: 1200px) {
+    @media screen and (max-width: 1300px) {
         .button {
             font-size: 28px;
             padding: 20px;
@@ -503,7 +503,7 @@ html {
     }
 }
 
-@media screen and (min-width: 1200px) {
+@media screen and (min-width: 1300px) {
     .button {
         font-size: 33px;
         padding: 25px;
