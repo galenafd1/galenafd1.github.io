@@ -464,12 +464,19 @@ html {
     margin: 5px;
 }
 
+.button-container {
+    display: inline-block;
+    margin: 0 auto;
+    height: auto;
+    text-align: center;
+}
+
 @media screen and (min-width: 1px) {
     @media screen and (max-width: 1200px) {
         .button {
             font-size: 23px;
             padding: 15px;
-            width: 180px;
+            width: 150px;
         }
     }
 }
