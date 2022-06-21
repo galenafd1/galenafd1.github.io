@@ -268,6 +268,39 @@ html {
 
 }
 
+.stat-container-1 {
+    display: inline-block;
+    margin: 0 auto;
+    height: auto;
+    text-align: center;
+    color: var(--White);
+    text-shadow: var(--bl) 2px 2px 2px;
+    background-color: var(--BRBlue2);
+    opacity: 0.8;
+}
+
+.stat-container-2 {
+    display: inline-block;
+    margin: 0 auto;
+    height: auto;
+    text-align: center;
+    color: var(--White);
+    text-shadow: var(--bl) 2px 2px 2px;
+    background-color: var(--BRBlue2);
+    opacity: 0.9;
+}
+
+.stat-container-3 {
+    display: inline-block;
+    margin: 0 auto;
+    height: auto;
+    text-align: center;
+    color: var(--White);
+    text-shadow: var(--bl) 2px 2px 2px;
+    background-color: var(--BRBlue2);
+
+}
+
 .opacity-9 {
     opacity: 0.9;
 }
