@@ -476,7 +476,7 @@ html {
         .button {
             font-size: 23px;
             padding: 15px;
-            width: 150px;
+            width: 120px;
         }
     }
 }
@@ -489,14 +489,14 @@ html {
     }
 }
 
-.button span {
+.button span,i {
     cursor: pointer;
     display: inline-block;
     position: relative;
     transition: 0.5s;
 }
 
-.button span:after {
+.button span,i:after {
     content: '\00bb';
     position: absolute;
     opacity: 0;
