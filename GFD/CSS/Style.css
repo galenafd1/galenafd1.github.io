@@ -505,9 +505,9 @@ html {
 
 @media screen and (min-width: 1200px) {
     .button {
-        font-size: 30px;
+        font-size: 33px;
         padding: 25px;
-        width: 200px;
+        width: 225px;
     }
 }
 
