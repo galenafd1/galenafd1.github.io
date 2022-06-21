@@ -276,7 +276,7 @@ html {
     color: var(--White);
     text-shadow: var(--bl) 2px 2px 2px;
     background-color: var(--BRBlue2);
-    opacity: 0.6;
+   /* opacity: 0.6; */
 }
 
 .stat-container-2 {
@@ -287,7 +287,7 @@ html {
     color: var(--White);
     text-shadow: var(--bl) 2px 2px 2px;
     background-color: var(--BRBlue2);
-    opacity: 0.8;
+  /*  opacity: 0.8; */
 }
 
 .stat-container-3 {
