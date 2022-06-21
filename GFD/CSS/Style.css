@@ -249,7 +249,7 @@ html {
 }
 
 .page-display-container-relative {
-    position: relative;
+    /*position: relative;*/
     height: auto;
     text-align: center;
     margin: 0 auto;
@@ -462,6 +462,7 @@ html {
     transition: all 0.5s;
     cursor: pointer;
     margin: 5px;
+    overflow: hidden;
 }
 
 .button-container {
