@@ -260,7 +260,7 @@ html {
 
 .stat-container {
     display: inline-block;
-    margin: 0 auto;
+    margin: 10 auto;
     height: auto;
     text-align: center;
     color: var(--White);
@@ -546,7 +546,7 @@ html {
         }
 
         .stat-container p {
-            font-size: 25px;
+            font-size: 23px;
         }
     }
 }
@@ -560,7 +560,7 @@ html {
         }
 
         .stat-container p {
-            font-size: 26px;
+            font-size: 24px;
         }
     }
 }
@@ -574,7 +574,7 @@ html {
         }
 
         .stat-container p {
-            font-size: 27px;
+            font-size: 25px;
         }
     }
 }
@@ -587,7 +587,7 @@ html {
     }
 
     .stat-container p {
-        font-size: 28px;
+        font-size: 26px;
     }
 }
 
