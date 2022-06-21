@@ -487,8 +487,8 @@ html {
     @media screen and (max-width: 1200px) {
         .button {
             font-size: 20px;
-            padding: 10px;
-            width: 90px;
+            padding: 12px;
+            width: 105px;
         }
     }
 }
