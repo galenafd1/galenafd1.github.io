@@ -265,6 +265,7 @@ html {
     text-align: center;
     color: var(--White);
     text-shadow: var(--bl) 2px 2px 2px;
+
 }
 
 .opacity-9 {
@@ -506,7 +507,7 @@ html {
     @media screen and (max-width: 768px) {
         .button {
             font-size: 25px;
-            padding:0 18px;
+            padding: 18px 0px;
             width: 180px;
         }
     }
@@ -516,7 +517,7 @@ html {
     @media screen and (max-width: 1100px) {
         .button {
             font-size: 20px;
-            padding:0 12px;
+            padding: 12px 0px;
             width: 105px;
         }
     }
@@ -526,7 +527,7 @@ html {
     @media screen and (max-width: 1300px) {
         .button {
             font-size: 28px;
-            padding:0 20px;
+            padding: 20px 0px;
             width: 160px;
         }
     }
@@ -535,7 +536,7 @@ html {
 @media screen and (min-width: 1300px) {
     .button {
         font-size: 31px;
-        padding:0 21px;
+        padding: 21px 0px;
         width: 190px;
     }
 }
