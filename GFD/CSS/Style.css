@@ -613,6 +613,7 @@ html {
     display: inline-block;
     position: relative;
     transition: 0.5s;
+    overflow: hidden;
 }
 
 .button i {
