@@ -545,7 +545,7 @@ html {
             width: 180px;
         }
 
-        .stat-container p {
+        .stat-container {
             font-size: 23px;
         }
     }
@@ -559,7 +559,7 @@ html {
             width: 105px;
         }
 
-        .stat-container p {
+        .stat-container {
             font-size: 24px;
         }
     }
@@ -573,7 +573,7 @@ html {
             width: 160px;
         }
 
-        .stat-container p {
+        .stat-container {
             font-size: 25px;
         }
     }
@@ -586,7 +586,7 @@ html {
         width: 190px;
     }
 
-    .stat-container p {
+    .stat-container {
         font-size: 26px;
     }
 }
