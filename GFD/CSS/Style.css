@@ -362,6 +362,7 @@ html {
 .float-left-img {
     float: left;
     height: auto;
+    overflow: hidden;
 }
 
 .page-display-img-text {
