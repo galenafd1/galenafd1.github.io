@@ -547,6 +547,7 @@ html {
 
         .stat-container {
             font-size: 23px;
+            width: 100%;
         }
     }
 }
@@ -561,6 +562,7 @@ html {
 
         .stat-container {
             font-size: 24px;
+            width: 33%;
         }
     }
 }
@@ -575,6 +577,7 @@ html {
 
         .stat-container {
             font-size: 25px;
+            width: 33%;
         }
     }
 }
@@ -588,6 +591,7 @@ html {
 
     .stat-container {
         font-size: 26px;
+        width: 33%;
     }
 }
 
