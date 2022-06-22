@@ -269,7 +269,7 @@ html {
 }
 
 .stat-container-1 {
-    display: inline-block;
+    display: block;
     margin: 10 auto;
     height: auto;
     text-align: center;
