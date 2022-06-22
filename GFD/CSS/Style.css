@@ -525,7 +525,7 @@ html {
 /* Donation Button */
 .button {
     border-radius: 4px;
-    background-color: var(--BRBlue2);
+    background-color: var(--BRBlue);
     color: var(--White);
     border: none;
     text-align: center;
