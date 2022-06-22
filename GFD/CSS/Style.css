@@ -283,7 +283,7 @@ html {
     text-align: center;
     color: var(--White);
     text-shadow: var(--bl) 2px 2px 2px;
-    background-color: var(--BRBlue);
+    /*background-color: var(--BRBlue);*/
    /* opacity: 0.6; */
 }
 
