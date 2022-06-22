@@ -252,7 +252,7 @@ html {
 
 .page-display-container-1 {
     display: block;
-    margin: 0 auto;
+    margin: 10 auto;
     height: auto;
     text-align: center;
     overflow: hidden;
@@ -567,6 +567,11 @@ html {
             font-size: 23px;
             width: 100%;
         }
+
+        .stat-container-1 {
+            font-size: 23px;
+            width: 100%;
+        }
     }
 }
 
@@ -580,6 +585,11 @@ html {
         }
 
         .stat-container {
+            font-size: 21px;
+            width: 32%;
+        }
+
+        .stat-container-1 {
             font-size: 21px;
             width: 32%;
         }
@@ -599,6 +609,11 @@ html {
             font-size: 24px;
             width: 32%;
         }
+
+        .stat-container-1 {
+            font-size: 24px;
+            width: 32%;
+        }
     }
 }
 
@@ -611,6 +626,11 @@ html {
     }
 
     .stat-container {
+        font-size: 26px;
+        width: 33%;
+    }
+
+    .stat-container-1 {
         font-size: 26px;
         width: 33%;
     }
