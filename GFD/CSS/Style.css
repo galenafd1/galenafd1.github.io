@@ -250,6 +250,14 @@ html {
     overflow: hidden;
 }
 
+.page-display-container-1 {
+    display: block;
+    margin: 0 auto;
+    height: auto;
+    text-align: center;
+    overflow: hidden;
+}
+
 .page-display-stats {
     display: inline-block;
     margin: 0 auto;
@@ -634,7 +642,7 @@ html {
 
 .button:hover span {
     padding-right: 25px;
-    overflow: hidden;
+    /*overflow: hidden;*/
 }
 
 .button:hover span:after {
