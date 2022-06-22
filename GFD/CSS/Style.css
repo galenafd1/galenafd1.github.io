@@ -283,6 +283,7 @@ html {
     text-align: center;
     color: var(--White);
     text-shadow: var(--bl) 2px 2px 2px;
+    width: 100%;
     /*background-color: var(--BRBlue);*/
    /* opacity: 0.6; */
 }
@@ -570,7 +571,6 @@ html {
 
         .stat-container-1 {
             font-size: 23px;
-            width: 100%;
         }
     }
 }
@@ -591,7 +591,6 @@ html {
 
         .stat-container-1 {
             font-size: 21px;
-            width: 32%;
         }
     }
 }
@@ -612,7 +611,6 @@ html {
 
         .stat-container-1 {
             font-size: 24px;
-            width: 32%;
         }
     }
 }
@@ -632,7 +630,6 @@ html {
 
     .stat-container-1 {
         font-size: 26px;
-        width: 33%;
     }
 }
 
