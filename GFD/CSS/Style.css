@@ -265,7 +265,7 @@ html {
     text-align: center;
     color: var(--White);
     text-shadow: var(--bl) 2px 2px 2px;
-    background-color: var(--BRBlue2);
+    background-color: var(--BRBlue);
 }
 
 .stat-container-1 {
@@ -318,6 +318,14 @@ html {
     height: auto;
     text-align: center;
     margin: 0 auto;
+}
+
+.page-display-container-relative-2 {
+    /*position: relative;*/
+    height: auto;
+    text-align: center;
+    margin: 0 auto;
+    font-weight: bold;
 }
 
 .centered {
