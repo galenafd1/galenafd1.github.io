@@ -549,8 +549,8 @@ html {
     @media screen and (max-width: 768px) {
         .button {
             font-size: 25px;
-            padding-top: 8px;
-            padding-bottom: 8px;
+            padding-top: 10px;
+            padding-bottom: 10px;
             width: 180px;
         }
 
