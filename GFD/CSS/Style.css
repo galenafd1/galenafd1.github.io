@@ -681,7 +681,7 @@ html {
 }
 
 .button:hover span {
-    padding-right: 18px;
+    padding-right: 25px;
     /*overflow: hidden;*/
     /*text-align: left;*/
 }
