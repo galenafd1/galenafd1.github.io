@@ -542,7 +542,7 @@ html {
     transition: all 0.5s;
     cursor: pointer;
     margin: 5px;
-    overflow: hidden;
+    /*overflow: hidden;*/
 }
 
 .button-container {
@@ -552,7 +552,7 @@ html {
     text-align: center;
     color: var(--White);
     text-shadow: var(--bl) 2px 2px 2px;
-    overflow: hidden;
+    /*overflow: hidden;*/
 }
 
 @media screen and (min-width: 1px) {
@@ -638,7 +638,7 @@ html {
     display: inline-block;
     position: relative;
     transition: 0.5s;
-    overflow: hidden;
+   /* overflow: hidden;*/
 }
 
 .button i {
@@ -655,18 +655,19 @@ html {
     top: 0;
     right: -20px;
     transition: 0.5s;
-    overflow: hidden;
+   /* overflow: hidden; */
 }
 
 .button:hover span {
-    padding-right: 25px;
-    overflow: hidden;
+    /*padding-right: 25px;*/
+    /*overflow: hidden;*/
+    text-align: left;
 }
 
 .button:hover span:after {
     opacity: 1;
     right: 0;
-    overflow: hidden;
+   /* overflow: hidden; */
 }
 
 .vertical-center {
