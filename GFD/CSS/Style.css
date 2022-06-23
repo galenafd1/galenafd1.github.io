@@ -182,6 +182,11 @@ html {
             font-size: 48px
         }
 
+        .main-title-p {
+            font-size: 40px
+        }
+
+
         .column p {
             font-size: 28px;
         }
@@ -205,6 +210,10 @@ html {
             font-size: 36px;
         }
 
+        .main-title-p {
+            font-size: 30px;
+        }
+
         .column p {
             font-size: 26px;
         }
@@ -225,6 +234,10 @@ html {
     }
     .main-title {
         font-size: 60px;
+    }
+
+    .main-title-p {
+        font-size: 50px;
     }
 
     .column p {
@@ -493,6 +506,15 @@ html {
     display: block;
     height: auto;
     font-weight: bold;
+    text-align: center;
+    color: var(--White);
+    text-shadow: var(--bl) 2px 2px 2px;
+}
+
+.main-title-p {
+    margin: 0 auto;
+    display: block;
+    height: auto;
     text-align: center;
     color: var(--White);
     text-shadow: var(--bl) 2px 2px 2px;
