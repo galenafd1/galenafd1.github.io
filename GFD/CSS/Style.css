@@ -659,7 +659,7 @@ html {
 }
 
 .button:hover span {
-    margin-right: 25px;
+    padding-right: 18px;
     /*overflow: hidden;*/
     /*text-align: left;*/
 }
