@@ -659,9 +659,9 @@ html {
 }
 
 .button:hover span {
-    /*padding-right: 25px;*/
+    margin-right: 25px;
     /*overflow: hidden;*/
-    text-align: left;
+    /*text-align: left;*/
 }
 
 .button:hover span:after {
