@@ -261,7 +261,7 @@ html {
     }
 
     .bill-hall-img-p {
-        font-size: 30px;
+        font-size: 32px;
     }
 }
 
@@ -658,7 +658,7 @@ html {
     }
 }
 
-@media screen and (min-width: 1300px) {
+@media screen and (min-width: 1400px) {
     .button {
         font-size: 31px;
         padding-top: 14px;
