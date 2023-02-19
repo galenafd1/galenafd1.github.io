@@ -261,7 +261,7 @@ html {
     }
 
     .bill-hall-img-p {
-        font-size: 32px;
+        font-size: 30px;
     }
 }
 
@@ -555,7 +555,7 @@ html {
         }
 
         .bill-hall-img-p {
-            font-size: 28px;
+            font-size: 25px;
         }
     }
 }
@@ -570,7 +570,7 @@ html {
 @media screen and (min-width: 768px) {
     @media screen and (max-width: 800px) {
         .bill-hall-img-p {
-            font-size: 32px;
+            font-size: 29px;
         }
     }
 }
@@ -674,13 +674,50 @@ html {
     .stat-container-1 {
         font-size: 26px;
     }
+
+    .button span {
+        cursor: pointer;
+        display: inline-block;
+        position: relative;
+        transition: 0.5s;
+       /* overflow: hidden;*/
+    }
+    
+    .button i {
+        cursor: pointer;
+        display: inline-block;
+        position: relative;
+        transition: 0.5s;
+    }
+    
+    .button span:after {
+        content: '\00bb';
+        position: absolute;
+        opacity: 0;
+        top: 0;
+        right: -20px;
+        transition: 0.5s;
+       /* overflow: hidden; */
+    }
+    
+    .button:hover span {
+        padding-right: 25px;
+        /*overflow: hidden;*/
+        /*text-align: left;*/
+    }
+    
+    .button:hover span:after {
+        opacity: 1;
+        right: 0;
+       /* overflow: hidden; */
+    }
 }
 
 .button span {
     cursor: pointer;
     display: inline-block;
     position: relative;
-    transition: 0.5s;
+   /* transition: 0.5s; */
    /* overflow: hidden;*/
 }
 
@@ -688,29 +725,7 @@ html {
     cursor: pointer;
     display: inline-block;
     position: relative;
-    transition: 0.5s;
-}
-
-.button span:after {
-    content: '\00bb';
-    position: absolute;
-    opacity: 0;
-    top: 0;
-    right: -20px;
-    transition: 0.5s;
-   /* overflow: hidden; */
-}
-
-.button:hover span {
-    padding-right: 25px;
-    /*overflow: hidden;*/
-    /*text-align: left;*/
-}
-
-.button:hover span:after {
-    opacity: 1;
-    right: 0;
-   /* overflow: hidden; */
+ /*   transition: 0.5s; */
 }
 
 .vertical-center {
