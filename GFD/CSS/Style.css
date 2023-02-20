@@ -621,10 +621,10 @@ html {
 @media screen and (min-width: 768px) {
     @media screen and (max-width: 1100px) {
         .button {
-            font-size: 20px;
+            font-size: 22px;
             padding-top: 12px;
             padding-bottom: 12px;
-            width: 115px;
+            width: 140px;
         }
 
         .stat-container {
@@ -641,10 +641,10 @@ html {
 @media screen and (min-width: 1100px) {
     @media screen and (max-width: 1250px) {
         .button {
-            font-size: 28px;
+            font-size: 30px;
             padding-top: 13px;
             padding-bottom: 13px;
-            width: 160px;
+            width: 185px;
         }
 
         .stat-container {
@@ -661,10 +661,10 @@ html {
 @media screen and (min-width: 1250px) {
     @media screen and (max-width: 1400px) {
         .button {
-            font-size: 30px;
+            font-size: 32px;
             padding-top: 13px;
             padding-bottom: 13px;
-            width: 180px;
+            width: 205px;
         }
 
         .stat-container {
@@ -686,7 +686,7 @@ html {
         font-size: 33px;
         padding-top: 14px;
         padding-bottom: 14px;
-        width: 200px;
+        width: 225px;
     }
 
     .stat-container {
@@ -742,7 +742,7 @@ html {
         font-size: 35px;
         padding-top: 14px;
         padding-bottom: 14px;
-        width: 225px;
+        width: 250px;
     }
 
     .stat-container {
