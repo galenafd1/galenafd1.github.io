@@ -624,7 +624,7 @@ html {
             font-size: 22px;
             padding-top: 12px;
             padding-bottom: 12px;
-            width: 140px;
+            width: 240px;
         }
 
         .stat-container {
@@ -644,7 +644,7 @@ html {
             font-size: 24px;
             padding-top: 12px;
             padding-bottom: 12px;
-            width: 165px;
+            width: 265px;
         }
 
         .stat-container {
@@ -664,7 +664,7 @@ html {
             font-size: 30px;
             padding-top: 13px;
             padding-bottom: 13px;
-            width: 195px;
+            width: 295px;
         }
 
         .stat-container {
@@ -684,7 +684,7 @@ html {
             font-size: 32px;
             padding-top: 13px;
             padding-bottom: 13px;
-            width: 215px;
+            width: 315px;
         }
 
         .stat-container {
@@ -706,7 +706,7 @@ html {
         font-size: 33px;
         padding-top: 14px;
         padding-bottom: 14px;
-        width: 235px;
+        width: 335px;
     }
 
     .stat-container {
@@ -762,7 +762,7 @@ html {
         font-size: 35px;
         padding-top: 15px;
         padding-bottom: 15px;
-        width: 275px;
+        width: 375px;
     }
 
     .stat-container {
