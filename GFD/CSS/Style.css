@@ -639,7 +639,7 @@ html {
 }
 
 @media screen and (min-width: 1100px) {
-    @media screen and (max-width: 1300px) {
+    @media screen and (max-width: 1250px) {
         .button {
             font-size: 28px;
             padding-top: 13px;
@@ -657,6 +657,28 @@ html {
         }
     }
 }
+
+@media screen and (min-width: 1250px) {
+    @media screen and (max-width: 1400px) {
+        .button {
+            font-size: 30px;
+            padding-top: 13px;
+            padding-bottom: 13px;
+            width: 180px;
+        }
+
+        .stat-container {
+            font-size: 24px;
+            width: 32%;
+        }
+
+        .stat-container-1 {
+            font-size: 24px;
+        }
+    }
+}
+
+
 
 @media screen and (min-width: 1400px) {
     .button {
